@@ -53,7 +53,7 @@ Este projeto é um protótipo de **MMORPG 2D top-down**, inspirado em conceitos 
 ┃   ┣ **Monstros**  </br>
 ┃   ┗ **Sistema**</br>
 ┃</br>
-┗━━ 📁 Outros_Assets</br>
+┗ 📁 Outros_Assets</br>
 </details>
 
 
