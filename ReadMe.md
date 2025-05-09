@@ -48,7 +48,6 @@ Este projeto é um protótipo de **MMORPG 2D top-down**, inspirado em conceitos 
 
 <details>
 <summary>Assets</summary>
-
 •<details>
    <summary>Scripts: Códigos do Jogo</summary>
 
