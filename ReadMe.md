@@ -49,7 +49,7 @@ Este projeto é um protótipo de **MMORPG 2D top-down**, inspirado em conceitos 
 <details>
 <summary>📦 Assets</summary>
 ┣ 📜 Scripts </br>
-┃   ┗<strong>Tamer</strong>: Codigos do Tamer/Jogador  </br>'
+┃   ┗<strong>Tamer</strong>: Codigos do Tamer/Jogador  </br>
 ┃</br>
 ┗🌎 Terrain </br>
 
