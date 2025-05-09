@@ -1,0 +1,35 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "ReadMe.md.meta": true,
+        "Scenes.meta": true,
+        "Scripts.meta": true,
+        "Settings.meta": true,
+        "Terrain.meta": true,
+        "UniversalRenderPipelineGlobalSettings.asset": true,
+        "UniversalRenderPipelineGlobalSettings.asset.meta": true,
+        "DefaultVolumeProfile.asset": true,
+        "DefaultVolumeProfile.asset.meta": true,
+        "External.meta": true,
+        "InputSystem_Actions.inputactions": true,
+        "InputSystem_Actions.inputactions.meta": true
+    },
+    "hide-files.files": [
+        "ReadMe.md.meta",
+        "Scenes.meta",
+        "Scripts.meta",
+        "Settings.meta",
+        "Terrain.meta",
+        "UniversalRenderPipelineGlobalSettings.asset",
+        "UniversalRenderPipelineGlobalSettings.asset.meta",
+        "DefaultVolumeProfile.asset",
+        "DefaultVolumeProfile.asset.meta",
+        "External.meta",
+        "InputSystem_Actions.inputactions",
+        "InputSystem_Actions.inputactions.meta"
+    ]
+}
