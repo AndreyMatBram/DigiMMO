@@ -1,5 +1,7 @@
 # 📦 [Nome Provisório] - MMORPG 2D Open-Source inspirado em Digimon
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
 Este projeto é um protótipo de **MMORPG 2D top-down**, inspirado em conceitos do universo Digimon, mas com **história e lore originais**. O jogo foca em **batalhas em tempo real**, similar ao estilo de combate visto em jogos como *Tibia*, e será completamente **open-source e colaborativo**, com suporte a **mods e extensões livres**.
 
 > ⚠️ **Aviso legal**: Este projeto é uma criação de fã, sem qualquer afiliação com a Bandai, Toei Animation ou qualquer detentora de direitos da franquia Digimon. Nenhum material gráfico ou sonoro oficial é usado aqui.
@@ -70,8 +72,6 @@ Este projeto é um protótipo de **MMORPG 2D top-down**, inspirado em conceitos 
 ---
 
 ## 🔐 Licença
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 Este projeto está licenciado sob a **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
