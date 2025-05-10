@@ -13,7 +13,6 @@ Este projeto é um protótipo de **MMORPG 2D top-down**, inspirado em conceitos 
 - 🧠 **Inspirado em**: Digimon, Tibia
 - 🧪 **Status atual**: Protótipo inicial com movimentação e UI
 - ⚙️ **Engine**: Unity 6.1 (6000.1.0f1)
-- 💾 **Licença**: Creative Commons BY-NC-SA 4.0
 
 ---
 
@@ -72,17 +71,27 @@ Este projeto é um protótipo de **MMORPG 2D top-down**, inspirado em conceitos 
 
 ## 🔐 Licença
 
-Este projeto está licenciado sob a **Creative Commons BY-NC-SA 4.0**.
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-Você pode:
-- Compartilhar e modificar o projeto
-- Usar para fins educacionais ou não-comerciais
+Este projeto está licenciado sob a **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-Mas não pode:
-- Utilizar com fins comerciais
-- Distribuir versões derivadas que não sejam também open-source sob a mesma licença
+### ✅ Você pode:
+- Usar, modificar e distribuir o código
+- Aplicar em projetos comerciais **desde que:**
+  - Disponibilize o código-fonte completo
+  - Mantenha a mesma licença (AGPL-3.0)
+  - Compartilhe todas as modificações
 
-Leia mais: [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt)
+### ❌ Você não pode:
+- Usar em serviços SaaS/proprietários **sem liberar o código-fonte**
+- Remover avisos de copyright originais
+- Sub-licenciar sob termos diferentes
+
+### 🔗 Leia a licença completa:
+[Texto oficial da AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) | 
+[Guia simplificado](https://choosealicense.com/licenses/agpl-3.0/)
+
+📌 **Nota importante:** A AGPL exige que serviços online que usem este código disponibilizem o fonte aos usuários.
 
 ---
 
