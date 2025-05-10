@@ -28,13 +28,13 @@ Este projeto é um protótipo de **MMORPG 2D top-down**, inspirado em conceitos 
 
 ## 🚧 Status do Desenvolvimento
 
-- [x] Base de movimentação 2D
-- [ ] Estrutura inicial de UI
-- [ ] Sistema de invocação de digimons
-- [ ] Batalhas 
-- [ ] Interação com NPCs e mapa
-- [ ] Sistema de multiplayer online
-- [ ] Suporte a mods (via arquivos externos e sistema modular)
+- ✅ Base de movimentação 2D
+- 🔄 Estrutura inicial de UI
+- ❌ Sistema de invocação de digimons
+- ❌ Batalhas 
+- ❌ Interação com NPCs e mapa
+- ❌ Sistema de multiplayer online
+- ❌ Suporte a mods (via arquivos externos e sistema modular)
 
 ---
 
