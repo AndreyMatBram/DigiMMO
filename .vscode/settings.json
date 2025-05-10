@@ -4,7 +4,34 @@
         "**/.svn": true,
         "**/.hg": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true
+        "**/Thumbs.db": true,
+        "**/.meta": true,
+        "Assets/DefaultVolumeProfile.asset": true,
+        "Assets/DefaultVolumeProfile.asset.meta": true,
+        "Assets/External.meta": true,
+        "Assets/InputSystem_Actions.inputactions": true,
+        "Assets/InputSystem_Actions.inputactions.meta": true,
+        "Assets/Scenes.meta": true,
+        "Assets/Scripts.meta": true,
+        "Assets/Settings.meta": true,
+        "Assets/Terrain.meta": true,
+        "Assets/UniversalRenderPipelineGlobalSettings.asset": true,
+        "Assets/UniversalRenderPipelineGlobalSettings.asset.meta": true,
+        "ReadMe.md.meta": true
     },
-    "hide-files.files": []
+    "hide-files.files": [
+        "Assets/DefaultVolumeProfile.asset",
+        "Assets/DefaultVolumeProfile.asset.meta",
+        "Assets/External.meta",
+        "Assets/InputSystem_Actions.inputactions",
+        "Assets/InputSystem_Actions.inputactions.meta",
+        "Assets/Scenes.meta",
+        "Assets/Scripts.meta",
+        "Assets/Settings.meta",
+        "Assets/Terrain.meta",
+        "Assets/UniversalRenderPipelineGlobalSettings.asset",
+        "Assets/UniversalRenderPipelineGlobalSettings.asset.meta",
+        "ReadMe.md.meta"
+    ],
+    
 }
